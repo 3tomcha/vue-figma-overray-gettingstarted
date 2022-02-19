@@ -1,0 +1,2 @@
+# vue-figma-overray-gettingstarted
+Figmaのコンポーネント自動生成ツールOverrayを使ってPC,SPコンポーネントを作りvue3-mqでPCSP対応させます
